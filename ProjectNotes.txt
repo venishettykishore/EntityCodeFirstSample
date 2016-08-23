@@ -1,0 +1,23 @@
+Hi Team,
+
+1. I have created the  Application using the MVC ,C#.NET and used the entity Framework to interact with the    database which is created by code first approach entity Model.
+
+2. The repository pattern is implemented to address the seperation of concern
+
+3. Autofac is used for the IOC container and injected the depenency through constructors.
+
+4. Created the unit testing project to ensure the code quality for controllers and Business Service methods. However, limited  test cases due to time constraint.
+
+
+However, due to the time constraint i have not got the chance to implement some other components such as:
+
+1. Authorization and authentication. (Could be windows/Forms).
+2. Much interested to do error handling by using custom exception filter with centralised logging either by using log4Net   or EnterpriseLibrary to which i had an exposure.
+3. WOuld have implemented the user friendly messages on screen through bootstrap/ Css after CRUD operations. 
+
+
+ Please Note :
+
+ 1. Application tested in Chrome and edge.There are some known issues with IE due to version compatibility.Hence did not get much chance to resolve them.
+ 1. Seeding data in to the database can be done by running the command called ' update-database' under the nugetPackageMangerConsole by selecting ApplicationRepository project.
+    Or create product can be used to create a test data and verify the lisitng. 

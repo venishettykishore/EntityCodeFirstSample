@@ -1,0 +1,13 @@
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\MarketEngineRepository.dll.config
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\MarketEngineRepository.dll
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\MarketEngineRepository.pdb
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\EntityFramework.dll
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\EntityFramework.xml
+E:\Technical\SampleApp\ApplicationRepository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\ApplicationRepository.Migrations.InitialSetup.resources
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\ApplicationRepository.Migrations.Second.resources
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\ApplicationRepository.csproj.GenerateResource.Cache
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\MarketEngineRepository.dll
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\MarketEngineRepository.pdb
+E:\Technical\SampleApp\ApplicationRepository\obj\Debug\ApplicationRepository.csprojResolveAssemblyReference.cache
